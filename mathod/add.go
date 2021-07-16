@@ -1,4 +1,5 @@
 package mathod
-func add() string{
+
+func Add() string {
 	return "开源快乐！"
 }
